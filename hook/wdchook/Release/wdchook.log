@@ -1,0 +1,10 @@
+﻿  wdchook.cpp
+D:\Programing\Repository\aJx2\wdchook_14\wdchook\wdchook.cpp(850,44): warning C4244: 'argument': conversion from 'LPARAM' to 'short', possible loss of data
+wdchook.def(2): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+     Creating library D:\Programing\Repository\aJx2\wdchook_14\Release\wdchook.lib and object D:\Programing\Repository\aJx2\wdchook_14\Release\wdchook.exp
+  Generating code
+  3 of 47 functions ( 6.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  wdchook.vcxproj -> D:\Programing\Repository\aJx2\wdchook_14\Release\wdchook.dll
