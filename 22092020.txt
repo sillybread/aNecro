@@ -1,0 +1,75 @@
+=> : sure
+?=> : double check!
+
+step1
+444AA0 => 65c510
+step3
+0x00443BD0 => 65be60
+step4
+0x004400C0 => 657cf0
+move
+0x00648FB0 => 505160
+action
+0x005EB5E0 => 49c560
+select menu
+0x004DEC40 => 705710
+BuyingItem
+0x0064AF00 => 5070a0
+SellingItem
+0x0064AFA0 ?=> 504570
+StoreMoney
+0x0064A6A0 => 506760
+closeInventory
+0x004968C0 => 6bb4f0
+chat
+0x00427E00 => 0063EED0
+closeChat
+0x0041EDB0 => 00635D2F
+craft
+0x0064A980 => 506a40
+Skipchat
+0x00432D30 => 0064A990
+picknput
+0x005D8250 => 488e00
+usehorse
+0x005E9B90 => 49ab00
+switchrun
+0x00658A80 => 515ae0
+ChooseNewChar
+0x0043EE20 => 656a50
+ChooseLoginChar
+0x0043FF00 => 657b30
+LevelUp
+0x0064CDD0 => 509660
+CreateGroup
+0x00568F80 => 0041CF10
+ChooseLoginCharEx
+0x00441600 0
+0x0043FF00 1
+nhanCode
+0x004FB680 0
+useItem
+0x00643440 3
+incStat
+
+chooseServer
+
+throwItem
+0x005D8200 1
+setItemPrice
+
+SetSaleText
+
+Sale
+
+SplitItem
+
+myshop
+
+Respawn
+0x00434110 1
+POpenShop
+0x00650E00
+0x0064DCC0
+PShopping
+0x00650CB0

@@ -1,0 +1,11 @@
+056D0000:
+push eax
+push ecx
+push -1
+mov ecx, 09AE75A0
+mov eax, 00659560
+call eax
+pop ecx
+pop eax
+add esp,4
+ret

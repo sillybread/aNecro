@@ -1,0 +1,4 @@
+Open server list => 651D50
+Select server group => 00659560
+Choose selected server => 659fe0
+Mouse click => 710890
